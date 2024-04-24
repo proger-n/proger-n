@@ -34,7 +34,7 @@ ___
 ### **Data Science** Projects:
 |    Name           | Description      | Tools        |
 |    ---            |      ---         |  ---         |
-| [Analysis of the website "SberAvtopodpiska"](https://github.com/proger-n/SberAutopodpiska_analysis) | Data cleaning and EDA done. Then hypotheses have been tested and answers to the questions of the product team have been given |[![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=scikit_learnt&logoColor=F46D01)]() ![SciPy](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=%white) [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=F46D01)]() [![Scikit_learn](https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F46D01)]() ![SciPy](https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=scipy&logoColor=%white) [![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=F46D01)]() |
+| [Analysis of the website "SberAvtopodpiska"](https://github.com/proger-n/SberAutopodpiska_analysis) | Data cleaning and EDA were performed, followed by testing of hypotheses and providing answers to the product team's inquiries. | ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=%white) [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=F46D01)]() [![Scikit_learn](https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F46D01)]() ![SciPy](https://img.shields.io/badge/SciPy-000000?style=for-the-badge&logo=scipy&logoColor=%white) |
 | [Tweets - NLP](https://github.com/proger-n/DS_01_Tweets) | An introduction to natural language processing: bag of words, TFIDF, stemming, lemmatization, stop-words, cosine similarity, n-grams, word2vec. | [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=F46D01)]() [![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=F46D01)]() [![Scikit_learn](https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F46D01)]() [![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=Keras&logoColor=F46D01)]() [![nltk](https://img.shields.io/badge/nltk-000000?style=for-the-badge&logo=nltk&logoColor=F46D01)]() |
 | [Churn prediction - Dense Neural Networks](https://github.com/proger-n/DS_02_Churn_prediction) | Churn prediction using: Naive classifier, Random forest, Scikit-learn.MLPClassifier, Keras, TensorFlow. | [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=F46D01)]() [![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=F46D01)]() [![Scikit_learn](https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F46D01)]() [![Tensorflow](https://img.shields.io/badge/Tensoflow-000000?style=for-the-badge&logo=tensorflow&logoColor=F46D01)]() [![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=Keras&logoColor=F46D01)]() |
 ___
@@ -45,18 +45,22 @@ ___
 | [LogisticRegression, KNN, NaiveBayes](https://github.com/proger-n/ML_learning_04) | Implementation of LogisticRegression, KNN and NaiveBayes classifiers. | [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=F46D01)]() [![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=F46D01)]() [![Scikit_learn](https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F46D01)]() |
 | [CART, GDBT](https://github.com/proger-n/ML_learning_05) | Implementation of DecisionTreeClassifier, DecisionTreeRegressor, RandomForestTree, GDBT. | [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=F46D01)]() [![NumPy](https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=F46D01)]() [![Scikit_learn](https://img.shields.io/badge/Scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F46D01)]() |
 ___
+### Bootcamps
+|    Name           | Description      | Tools        |
+|    ---            |      ---         |  ---         |
+| [Data Science bootcamp](https://github.com/proger-n/DS_bootcamp) | A 14-day immersion in data science, starting with bash scripts and pure python to model training in jupyter | `bash, python, jupyter, OOP, pandas, numpy, scikit-learn` |
+| [Python bootcamp](https://github.com/proger-n/Python_Bootcamp) | During 6 days, 35 tasks were completed for various use of Python. | `sys, re, BS4, redis, pyyaml, logging, json, argparse, Neo4J, networkx, matplotlib` |
+| [PostreSQL bootcamp](https://github.com/proger-n/SQL_bootcamp) | 100 tasks for various SQL sections were completed within 14 days. | `DML, DDL, DQL` |
+<!-- | [Yandex Algoritms](https://github.com/proger-n/YandexAlgoTraining) |  |  | -->
 ___
-<!--
-**proger-n/proger-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### C/C++ Projects
+|    Name           | Description      | Tools        |
+|    ---            |      ---         |  ---         |
+| [3D Viewer](https://github.com/proger-n/3dViewerV2_cpp) | Implementation of a 3D viewer for reading and manipulating obj format objects | `C++, Qt, OOP`(MVC, Singleton, Command, Facade) |
+| [Smart Calculator](https://github.com/proger-n/SmartCalcV1_c_cpp) | An extended version of the calculator with the ability to plot graphs on Qt | `C, C++, Qt, Gtest` |
+| [matrix - C++ library](https://github.com/proger-n/Matrix_cpp) | Implementation matrix library for work with matrices | `C++, OOP, Gtest` |
+| [decimal.h - C library](https://github.com/proger-n/decimal_c) | Native implementation of the decimal.h library in C | `C, Makefile, lcov` |
+| [string.h - C library](https://github.com/proger-n/string_c) | Native implementation of the string.h library in C | `C, Makefile` |
+| [cat grep - Unix Commands](https://github.com/proger-n/UnixCatGrep_c) | Native implementation of cat, grep commands (used in Unix-like operating systems) | `C, Bash` |
+___
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
