@@ -48,7 +48,7 @@ ___
 ### Bootcamps
 |    Name           | Description      | Tools        |
 |    ---            |      ---         |  ---         |
-| [Data Science bootcamp](https://github.com/proger-n/DS_bootcamp) | A 14-day immersion in data science, starting with bash scripts and pure python to model training in jupyter | `bash, python, jupyter, OOP, pandas, numpy, scikit-learn` |
+| [Data Science bootcamp](https://github.com/proger-n/DS_bootcamp) | A 14-day immersion in data science, starting with bash scripts and pure python to model training in jupyter | `bash, python, jupyter, OOP, pandas, numpy, scikit-learn, matplotlib, seaborn, sqlite3` |
 | [Python bootcamp](https://github.com/proger-n/Python_Bootcamp) | During 6 days, 35 tasks were completed for various use of Python. | `sys, re, BS4, redis, pyyaml, logging, json, argparse, Neo4J, networkx, matplotlib` |
 | [PostreSQL bootcamp](https://github.com/proger-n/SQL_bootcamp) | 100 tasks for various SQL sections were completed within 14 days. | `DML, DDL, DQL` |
 <!-- | [Yandex Algoritms](https://github.com/proger-n/YandexAlgoTraining) |  |  | -->
