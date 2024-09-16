@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/%D0%BD%D0%B0%D0%B8%D0%BB%D1%8C-%D0%B0%D1%85%D0%BC%D0%B5%D1%82%D0%B3%D0%B0%D1%80%D0%B8%D0%B5%D0%B2-838251206/" target="_blank">Nail</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data Scientist, <a href='https://21-school.ru/'>School 21</a> student</h3>
+<h3 align="center">Data Scientist in SBERBANK</h3>
 
 ___  
 ### Contact:
